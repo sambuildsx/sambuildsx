@@ -6,6 +6,8 @@ Hi , I'm Samriddhi Bhardwaj
 
 I enjoy turning ideas into functional applications and learning by building. I'm particularly interested in creating systems that combine clean UI with solid backend logic. I’m focused on growing as a developer by consistently working on projects, exploring new technologies, and improving with every step.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&height=67&lines=Gen+AI+%2B+Agentic+Specialist+%7C+Full+stack+Web+Dev)](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samriddhi-bhardwaj-085a6a209/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samriddhi1101@gmail.com) 
