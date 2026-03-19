@@ -6,7 +6,7 @@ Hi , I'm Samriddhi Bhardwaj
 
 I enjoy turning ideas into functional applications and learning by building. I'm particularly interested in creating systems that combine clean UI with solid backend logic. I’m focused on growing as a developer by consistently working on projects, exploring new technologies, and improving with every step.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&height=67&lines=Gen+AI+%2B+Agentic+Specialist+%7C+Full+stack+Web+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&height=67&lines=Full+stack+Web+Dev)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
