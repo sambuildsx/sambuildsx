@@ -1,7 +1,6 @@
 # Hi, I'm Samriddhi...
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Full+Stack+Developer" />
-## 🌐 Socials:
+
 • B.Tech student with a growing interest in full-stack development
 
 • Enjoy building and understanding complete applications  
@@ -9,7 +8,7 @@
 • Learning through hands-on projects and real problem-solving  
 
 • Constantly improving, one step and one project at a time
-
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samriddhi-bhardwaj-085a6a209/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samriddhi1101@gmail.com) 
 
 # 💻 Tech Stack:
